@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;700&display=swap');
 
+//My styles
+
+li{
+  font-size: 20px;
+}
+
+//End
 body {
   margin: 0;
   font-family: 'Nunito', sans-serif;
@@ -57,6 +64,7 @@ body {
       background: rgb(18, 231, 48);
       transition: all 0.3s ease-in-out;
       background: linear-gradient(90deg, rgba(18, 231, 48, 1) 0%, rgba(0, 212, 255, 1) 100%);
+      
     }
   }
 
